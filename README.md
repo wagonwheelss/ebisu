@@ -2,34 +2,33 @@
 
 <img src="img/ebisusama.png" width="200">
 
-Trading bot for BitMex.
-Торговый бот для BitMex.
+Trading bot for BitMex. / Торговый бот для BitMex.
 
-The author is not responsible for any damage caused by this software.  
+The author is not responsible for any damage caused by this software. /
 Автор не несет ответственности за любой ущерб, нанесенный этим программным обеспечением.
 
-## Features
+## Features / Функции
 
-- Swithable strategy
-- Back test
-- Connect testnet
-- Stub trading
+- Swithable strategy / Стратегия скользящей средней
+- Back test / Тестирование на основе исторических данных
+- Connect testnet / Подключение к тестнет
+- Stub trading / Стабильная торговля
 
-## Implemented strategies
+## Implemented strategies / Реализованные стратегии
 
 1. Channel Breakout
 2. Cross SMA
-3. RCI
+3. RSI
 4. Open Close Cross Strategy
 5. Trading View Strategy
 
-## Dependencies
+## Dependencies / Работает на
 
 - Python: 3.6.5
 
-## How to install
+## How to install / Как установить
 
-### 1. Install packages
+### 1. Install packages / Пакеты для инсталяции
 
 #### OSX
 
@@ -54,9 +53,10 @@ $ cd ebisu/
 $ pip install -r requirements.txt
 ```
 
-### 2. Setting environment
+### 2. Setting environment / Настройка среды
 
-Set BitMex's API key with the environment variables `BITMEX_APIKEY` and` BITMEX_SECRET` as shown below.
+Set BitMex's API key with the environment variables `BITMEX_APIKEY` and` BITMEX_SECRET` as shown below. /
+Установите ключ API BitMex с переменными среды `BITMEX_APIKEY` и` BITMEX_SECRET`, как показано ниже.
 
 ```bash
 $ vi ~/.bash_profile
