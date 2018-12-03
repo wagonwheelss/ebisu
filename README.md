@@ -1,12 +1,12 @@
-# ゑびす
+# Ebisu / Эбису
 
 <img src="img/ebisusama.png" width="200">
 
-Trading bot for BitMex.  
-BitMex用トレーディングボットプログラム。
+Trading bot for BitMex.
+Торговый бот для BitMex.
 
 The author is not responsible for any damage caused by this software.  
-作者は本ソフトウェアによって生じる一切の損害について責任を負いません。
+Автор не несет ответственности за любой ущерб, нанесенный этим программным обеспечением.
 
 ## Features
 
