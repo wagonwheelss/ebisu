@@ -55,8 +55,8 @@ $ pip install -r requirements.txt
 
 ### 2. Setting environment / Настройка среды
 
-Set BitMex's API key with the environment variables `BITMEX_APIKEY` and` BITMEX_SECRET` as shown below. /
-Установите ключ API BitMex с переменными среды `BITMEX_APIKEY` и` BITMEX_SECRET`, как показано ниже.
+Set BitMex's API key with the environment variables `BITMEX_APIKEY` and` BITMEX_SECRET` as shown below. 
+Установите ключ API BitMex в переменную среды `BITMEX_APIKEY` и` BITMEX_SECRET`, как показано ниже.
 
 ```bash
 $ vi ~/.bash_profile
